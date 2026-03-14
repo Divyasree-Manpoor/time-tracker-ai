@@ -2,7 +2,7 @@
 
 A web application that helps users log daily activities (in minutes) and analyse how their **24 hours (1440 minutes)** are spent with a clean, visual dashboard.
 
-Built with **vanilla JavaScript**, **Firebase Auth + Firestore**, and **Chart.js**, with UI/UX and code assisted by **AI tools**.
+Built with **vanilla JavaScript**, **Firebase Auth + Firestore**, with UI/UX and code assisted by **AI tools**.
 
 ---
 
